@@ -20,8 +20,7 @@
     I'm a passionate Frontend developer who loves to play around with Javascript
     I have completed my engineering from  <b>University Visvesvaraya College Of Engineering</b> <br>
     I Love <b>Web and mobile Development</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a learning       enthusiast&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b> 
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
+    with the idea of <b>improving</b> himself <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
   </em>  
 </p>
@@ -29,15 +28,15 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* either **playing cricket** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />I'm not single and my current Love is **React**🌐
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />I'm not single and my current love is **React**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 ```js
-import SoftwareDeveloper from 'India';
+import SoftwareDeveloper from 'Rajath-Shetty';
 
-class Bio extends WebDevloper {
-  name     = 'Rajath Shetty';
+class Bio extends SoftwareDeveloper {
+  alias     = 'Rajath Shetty';
   title    = 'Web Developer';
   location = 'Bengaluru,India';
 }
@@ -119,4 +118,4 @@ class Skills extends SoftwareDeveloper {
 
 
 
-## ⭐️ With Regards [Rajath](https://github.com/rajathshetty00)
+## ⭐️ with regards [Rajath](https://github.com/rajathshetty00)

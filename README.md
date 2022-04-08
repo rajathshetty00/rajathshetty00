@@ -86,16 +86,18 @@ class Skills extends SoftwareDeveloper {
 
 
 
+
 **SDLC**
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/rajathshetty00) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/rajathshetty00) 
 
+**DevOps**
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/rajathshetty00) 
 
 
-
 **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/rajathshetty00)
-
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00)
+[![Jira](https://img.shields.io/badge/-Confluence-0052CC?style=flat&logo=confluence&logoColor=white&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00)
+[![Jira](https://img.shields.io/badge/-Asana-orange?style=flat&logo=asana&logoColor=white&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00)
 
 
 **Version Control:**
@@ -107,7 +109,7 @@ class Skills extends SoftwareDeveloper {
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/rajathshetty00/">
-    <img align="left" alt="Narendra Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Rajath Shetty" | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:rajathshetty00@gmail.com">
     <img align="left" alt="Rajath Shetty  | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />

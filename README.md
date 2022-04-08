@@ -54,21 +54,21 @@ class Skills extends SoftwareDeveloper {
 ---
 ### 💻:keyboard: Languages and Tools 
 
-### Languages<sup>*</sup>
+### Languages and tools<sup>*</sup>
 
-  **JavaScript**: 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/narendram224)](https://github.com/rajathshetty00)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/narendram224)](https://github.com/rajathshetty00) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/narendram224)](https://github.com/rajathshetty00) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/narendram224)](https://github.com/rajathshetty00) 
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00)
+  [![CSS3](https://img.shields.io/badge/-SASS-2A3E59?style=flat&logo=sass&logoColor=white&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/rajathshetty00)](https://github.com/rajathshetty00) 
   
   **React:**
   
-      
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/rajathshetty00)
+[![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=white)](https://github.com/rajathshetty00)
    [![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://github.com/rajathshetty00)
-   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/rajathshetty00)
    [![React-router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://github.com/rajathshetty00)
-   [![Mterial-UI]( https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/rajathshetty00)
+   [![Material-UI]( https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/rajathshetty00)
   [![Styled-component]( https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/rajathshetty00)
    
    

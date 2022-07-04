@@ -1,6 +1,6 @@
 ## Hi🙏, This is Rajath Shetty
 ## I'm a React developer  👨‍💻
-# Rajath&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Rajath&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">
 
   <a href="https://rajathshetty.netlify.app/">
     <img align="left" alt="Rajath Shetty | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />

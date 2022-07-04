@@ -21,14 +21,14 @@
     I have completed my engineering from  <b>University Visvesvaraya College Of Engineering</b> <br>
     I Love <b>Web and mobile Development</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="30px" width="30px"> and a learning enthusiast&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" height="36px" width="36px">  who is <b>obsessed</b> 
     with the idea of <b>improving</b> himself <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="18px" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" height="20px" width="20px"> <br>
   </em>  
 </p>
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* either **playing cricket** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />I'm not single and my current love is **React**🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" height="20vh" width="20vw" /> I’m *currently* either **playing cricket** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="20vh" width="20vw" />I'm not single and my current love is **React**🌐
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" height="20vh" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 ```js

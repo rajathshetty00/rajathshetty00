@@ -1,9 +1,9 @@
 ## Hi🙏, This is Rajath Shetty
 ## I'm a React developer  👨‍💻
-# Rajath&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">
+# You can call me *Rajath*&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">
 
   <a href="https://rajathshetty.netlify.app/">
-    <img align="left" alt="Rajath Shetty | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
+    <img align="left" alt="Rajath Shetty | Twitter" width="26px" height="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
     <b>My Personal Website</b>
 </a>
 &nbsp;
@@ -12,19 +12,18 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello there!&nbsp;
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px" width="29px"> Hello there!&nbsp;
 
 
 <p>
   <em>
     I'm a passionate Frontend developer who loves to play around with Javascript
     I have completed my engineering from  <b>University Visvesvaraya College Of Engineering</b> <br>
-    I Love <b>Web and mobile Development</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a learning       enthusiast&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b> 
-    with the idea of <b>improving</b> himself <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
+    I Love <b>Web and mobile Development</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="30px" width="30px"> and a learning enthusiast&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" height="36px" width="36px">  who is <b>obsessed</b> 
+    with the idea of <b>improving</b> himself <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="18px" width="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
   </em>  
 </p>
-
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* either **playing cricket** 😴 or *working* on my **laptop** 👨‍💻
